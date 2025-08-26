@@ -1,3 +1,3 @@
 - [Download Obsidian](https://obsidian.md/download)
-- Get the Community Git Plugin
+- Get the community git plugin
 - Clone this repo to your machine and open it as an Obsidian notebook
