@@ -1,5 +1,5 @@
 ---
 tags:
-  - type/key-item
+  - type/item
 ---
 A [[Gold Statue]] in the town of [[Goldmarsh]].
