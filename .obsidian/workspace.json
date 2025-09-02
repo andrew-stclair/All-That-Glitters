@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Monsters/Mimic.md",
+                "file": "Characters/Varis Xiloscient.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Mimic"
+              "title": "Backlinks for Varis Xiloscient"
             }
           },
           {
@@ -129,12 +129,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Monsters/Mimic.md",
+                "file": "Characters/Varis Xiloscient.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Mimic"
+              "title": "Outgoing links from Varis Xiloscient"
             }
           },
           {
@@ -158,13 +158,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Monsters/Mimic.md",
+                "file": "Characters/Varis Xiloscient.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Mimic"
+              "title": "Outline of Varis Xiloscient"
             }
           },
           {
@@ -198,10 +198,10 @@
   },
   "active": "685648de4c96ac63",
   "lastOpenFiles": [
-    "Sessions/Session 2.md",
-    "Sessions/Session 1.md",
-    "Characters/Varis Xiloscient.md",
     "Monsters/Mimic.md",
+    "Characters/Varis Xiloscient.md",
+    "Sessions/Session 1.md",
+    "Sessions/Session 2.md",
     "Monsters",
     "Things/Gold Statue.md",
     "Things/Gold Plaque.md",
