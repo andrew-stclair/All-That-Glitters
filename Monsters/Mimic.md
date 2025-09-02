@@ -19,13 +19,13 @@ Medium Monstrosity (Shapechanger), Neutral
 | ------- | ------- | ------- | ------ | ------- | ------ |
 | 17 (+3) | 12 (+1) | 15 (+2) | 5 (-3) | 13 (+1) | 8 (-1) |
 
-**Skills** [[Stealth]] +5
-**Damage Immunities** Acid
-**Condition Immunities** [[Prone]]
-**Senses** [[Darkvision]] 60 ft., [[Passive Perception]] 11
-**Languages** --
-**Challenge** 2 (450 XP)
-**Proficiency Bonus** +2
+- **Skills** [[Stealth]] +5
+- **Damage Immunities** Acid
+- **Condition Immunities** [[Prone]]
+- **Senses** [[Darkvision]] 60 ft., [[Passive Perception]] 11
+- **Languages** --
+- **Challenge** 2 (450 XP)
+- **Proficiency Bonus** +2
 
 ---
 ## Traits
